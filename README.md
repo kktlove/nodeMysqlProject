@@ -14,8 +14,8 @@ password input...
 mysql> create database node
 mysql> use node
 exit
-$ cd node_yun
-$ mysql -u root -p node < node_yun.sql
+$ cd node_project
+$ mysql -u root -p node < node_mysql.sql
 ```
 
 
